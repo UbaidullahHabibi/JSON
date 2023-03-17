@@ -18,13 +18,11 @@
     {
       "name": "Vanilla",
       "calories": 300,
-      "type": "Vanilla Creamy",
+      "type": "vanilla creamy",
       "ingredients": [
         "Vanilla Cream",
         "Cane Syrup",
-        "Milk",
-        "test",
-        "test2"
+        "Milk"
       ],
       "image": "vanilla.jpg"
     },
