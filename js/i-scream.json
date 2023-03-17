@@ -37,5 +37,17 @@
       ],
       "image": "strawberry-sprinkle.svg"
     }
+    {
+      "name": "Vanilla Ice Cream",
+      "calories": 300,
+      "type": "ice cream",
+      "ingredients": [
+        "Apple pie",
+        "turon",
+        "vanilla extract"
+        
+      ],
+      "image": "vanilla.jpg"
+    },
   ]
 }
