@@ -41,9 +41,23 @@ request.send();
 		request.onload = function () {
 var iScreamInc = request.response;
 console.log(iScreamInc);
+//populateHeader(iScreamInc)
+//showTopFlavors(iScreamInc);
 }
 		/* STEP 9: Build out the populateHeader() function */
+function populateHeader(jsonObj) {
+var headerH1 = document.createElement('h1');
+headerH1.textContent = jsonObj.companyName;
+header.appenChild(headerH1);
+//Grab the company location & established date
+var headeH1 = document.createElement('p');
+headerH1.textContent = 'Head Office: ' + jsonObj['headOffice'] + ', Esatblished: ' + jsonObj['established'];
+headerPara.appenChild(headerH1);
 
+
+
+
+}
 		/* STEP 10a: Assemble the showTopFlavors() function */
 
 			// STEP 10b: Bind the JSON topFlavors object to a var
