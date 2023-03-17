@@ -5,6 +5,17 @@
   "active": true,
   "topFlavors": [
     {
+      "name": "Chocolate Chip",
+      "calories": 700,
+      "type": "creamy",
+      "ingredients": [
+        "Whipping Cream",
+        "Corn Syrup",
+        "Chocolate cream"
+      ],
+      "image": "chocda.jpg"
+    },
+    {
       "name": "Monstrous Mint",
       "calories": 400,
       "type": "ice cream",
