@@ -16,6 +16,19 @@
       "image": "chocda.jpg"
     },
     {
+      "name": "Vanilla",
+      "calories": 300,
+      "type": "Vanilla Creamy",
+      "ingredients": [
+        "Vanilla Cream",
+        "Cane Syrup",
+        "Milk",
+        "test",
+        "test2"
+      ],
+      "image": "vanilla.jpg"
+    },
+    {
       "name": "Monstrous Mint",
       "calories": 400,
       "type": "ice cream",
