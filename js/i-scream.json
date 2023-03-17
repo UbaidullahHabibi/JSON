@@ -11,7 +11,9 @@
       "ingredients": [
         "peppermint cream",
         "dark chocolate chips",
-        "vanilla extract"
+        "vanilla extract",
+        "test",
+        "test2"
       ],
       "image": "chocolate-mint.svg"
     },
@@ -37,17 +39,5 @@
       ],
       "image": "strawberry-sprinkle.svg"
     }
-    {
-      "name": "Vanilla Ice Cream",
-      "calories": 300,
-      "type": "ice cream",
-      "ingredients": [
-        "Apple pie",
-        "turon",
-        "vanilla extract"
-        
-      ],
-      "image": "vanilla.jpg"
-    },
   ]
 }
